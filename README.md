@@ -1,9 +1,5 @@
 <h1 align="center">Andradelima Engenharia</h1>
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge"/>
-</p>
-
 <p><h2>Descrição do Projeto</h2></p>
 
 <p>Projeto desenvolvido para estudo de tecnologias web. A Andradelima Engenharia é uma empresa de construção civil situada em Feira de Santana, Bahia, com especialidades em construção, reformas e confecção de projetos.</p>
